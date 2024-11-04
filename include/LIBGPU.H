@@ -64,6 +64,8 @@
  *		 color	CLUT	CLUT	DIRECT
  */
 
+#include <LIBGTE.H>
+
 /*
  *	Externals
  */
