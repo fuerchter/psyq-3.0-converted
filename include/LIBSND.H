@@ -15,7 +15,7 @@
  * $PSLibId: Runtime Library Versin 3.0$
  */
 
-#include <sys/types.h>
+#include <SYS/TYPES.H>
 
 /*
  * Macro 

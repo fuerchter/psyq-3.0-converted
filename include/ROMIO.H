@@ -10,6 +10,6 @@
 #ifndef _ROMIO_H
 #define _ROMIO_H
 
-#include <sys/file.h>
+#include <SYS/FILE.H>
 
 #endif /* _ROMIO_H */

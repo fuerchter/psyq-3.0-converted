@@ -8,10 +8,10 @@
 #ifndef _STDLIB_H
 #define _STDLIB_H
 
-#include <stddef.h>
-#include <abs.h>
-#include <convert.h>
-#include <malloc.h>
-#include <qsort.h>
+#include <STDDEF.H>
+#include <ABS.H>
+#include <CONVERT.H>
+#include <MALLOC.H>
+#include <QSORT.H>
 
 #endif /* _STDLIB_H */
